@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CPIT405--Project--Trivia--Quizzes/static/css/main.cbaf5cf1.css",
+    "main.js": "/CPIT405--Project--Trivia--Quizzes/static/js/main.cffdf424.js",
+    "index.html": "/CPIT405--Project--Trivia--Quizzes/index.html",
+    "main.cbaf5cf1.css.map": "/CPIT405--Project--Trivia--Quizzes/static/css/main.cbaf5cf1.css.map",
+    "main.cffdf424.js.map": "/CPIT405--Project--Trivia--Quizzes/static/js/main.cffdf424.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbaf5cf1.css",
+    "static/js/main.cffdf424.js"
+  ]
+}
